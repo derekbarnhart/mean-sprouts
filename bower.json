@@ -1,0 +1,14 @@
+{
+  "name": "mean-sprouts",
+  "version": "0.0.0",
+  "main": "main.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies":{
+  	"angular":"~1.0.7",
+     "underscore":"*"
+  }
+}ß
